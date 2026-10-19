@@ -1,0 +1,4 @@
+# Pinned to keep the runtime install reproducible and reduce supply-chain
+# exposure. Bump these deliberately after reviewing the changelogs.
+pyatv==0.18.0
+websockets==17.1
